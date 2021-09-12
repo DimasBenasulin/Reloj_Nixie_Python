@@ -29,7 +29,7 @@ def mostrarNumero(a=7, b=3, c=7):
 
     root.mainloop()
 
-mostrarNumero()
+# mostrarNumero()
 
 
 
